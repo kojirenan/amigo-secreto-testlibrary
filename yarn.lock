@@ -5312,6 +5312,19 @@ jest-validate@^27.5.1:
     leven "^3.1.0"
     pretty-format "^27.5.1"
 
+jest-watch-typeahead@0.6.5:
+  version "0.6.5"
+  resolved "https://registry.yarnpkg.com/jest-watch-typeahead/-/jest-watch-typeahead-0.6.5.tgz#b809f79eed106b6cf832e59a5fe54481f2d1918e"
+  integrity sha512-GIbV6h37/isatMDtqZlA8Q5vC6T3w+5qdvtF+3LIkPc58zEWzbKmTHvlUIp3wvBm400RzrQWcVPcsAJqKWu7XQ==
+  dependencies:
+    ansi-escapes "^4.3.1"
+    chalk "^4.0.0"
+    jest-regex-util "^27.0.0"
+    jest-watcher "^27.0.0"
+    slash "^3.0.0"
+    string-length "^4.0.1"
+    strip-ansi "^6.0.0"
+
 jest-watch-typeahead@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/jest-watch-typeahead/-/jest-watch-typeahead-1.0.0.tgz"
@@ -5497,10 +5510,10 @@ jsonpointer@^5.0.0:
     array-includes "^3.1.4"
     object.assign "^4.1.2"
 
-just-shuffle@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.npmjs.org/just-shuffle/-/just-shuffle-4.0.1.tgz"
-  integrity sha512-zi6tkAMmnrMc39Tmxma7uEJ4c/NmzreJYHNqpZZ5CR8DluhfarzSmAZ/Tr3HjCYJrXajX6L+rEmC2Z/Fq3uuyg==
+just-shuffle@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/just-shuffle/-/just-shuffle-4.2.0.tgz#795c09dbac1f9e94e797efd10a7ef537363c8903"
+  integrity sha512-/dDmNseAWLf3XkFY9xf3/BdQoiy27LNUy/7uG4zdSAX526nIHMYPYeJ4pN4lT1/pgNEX8XCXPtUB6gJqTpBEng==
 
 kind-of@^6.0.2:
   version "6.0.3"
